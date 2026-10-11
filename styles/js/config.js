@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Sacrayne",
-  url: "https://sapfies.github.io/sacrayne/",
-  description: `A Closed Avian Species`
+  title: "Empyliosia",
+  url: "https://bethroned.github.io/dysia/",
+  description: `A Semi-Closed Species`
 }
 
 /* ==================================================================== */
