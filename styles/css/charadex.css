@@ -774,6 +774,12 @@ p:last-child {
   color: var(--cd-rarity-legendary-txt);
 }
 
+/* pagedoll */
+#pagedoll {
+  position: fixed;
+  top: 100px;
+  left:100px;
+}
 
 /* ============================================================= */
 /* Mobile Improvements
