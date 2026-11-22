@@ -15,7 +15,7 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Empyliosia",
+  title: "Dysia",
   url: "https://bethroned.github.io/dysia/",
   description: `A Semi-Closed Species`
 }
@@ -42,12 +42,12 @@ charadex.sheet = {
 
   options: {
 
-    designTypes: ['All', 'Official Design', 'Guest Design', 'Staff Design', 'MYO Slot', 'MYO Design', 'Mascot'],
+    designTypes: ['All', 'Official Design', 'Guest Design', 'Staff Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'Accountbound'],
-    rarity: ['All', 'Cavernborn', 'Moonborn', 'Veilborn', 'Illegal', 'Misc',  'Trait'],
-    species: ['All', 'Sacrayne', 'Soulmark'],
+    rarity: ['All', 'Common', 'Uncommon', 'Unplaced', 'Misc',  'Trait'],
+    species: ['All', 'Dryad', 'Seed'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Trait Item', 'Quest Item', 'Relic'],
-    traitTypes: ['All', 'Required', 'Optional', 'Starborn']
+    traitTypes: ['All', 'Required', 'Optional', 'Shovel REQ']
 
   }
 
