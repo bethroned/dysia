@@ -45,7 +45,7 @@ charadex.sheet = {
     designTypes: ['All', 'Official Design', 'Guest Design', 'Staff Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'Accountbound'],
     rarity: ['All', 'Common', 'Uncommon', 'Unplaced', 'Misc',  'Trait'],
-    species: ['All', 'Dryad', 'Seed'],
+    species: ['All', 'Dryad'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Trait Item', 'Quest Item', 'Relic'],
     traitTypes: ['All', 'Required', 'Optional', 'Shovel REQ']
 
