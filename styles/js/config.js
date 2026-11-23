@@ -48,6 +48,7 @@ charadex.sheet = {
     species: ['All', 'Dryad'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Trait Item', 'Quest Item', 'Relic'],
     traitTypes: ['All', 'Required', 'Optional', 'Shovel REQ']
+    alignment: ['Eon', 'Iota']
 
   }
 
